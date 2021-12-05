@@ -2,7 +2,7 @@
 
 ## Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent congressional electoin.
-
+## Results
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
 3. Calculcate the total number of votes each cnadidate received.
@@ -13,7 +13,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Data Source: election_results.csv
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
-## Summary
+## Election-Audit Results
 The analysis of the election show that:
 - There were "369,711" votes cast in the election.
 - The candidates were:
@@ -28,7 +28,24 @@ The analysis of the election show that:
 - Charles Diana DeGette who received 73.8% of the vote and 272,892 number of votes
 
 ## Challenge Overview
-
+Seth and Tom, the two Board of Elections employees asked for additional information:
+  1. the voter turnout for each county
+  2. The percentage of voters from each county of the total count
+  3. The county with the highest turnout
 
 ## Challenge Summary
-   
+### Election Results
+  - Total Votes: 369,711
+  - County Results:
+    - Jefferson: 10.5: (38,855)
+    - Denver: 82.8% (306,055)
+    - Arapahoe: 6.7% (24,801)
+  - Most County Votes: Denver
+  - Candidate Results:
+    - Charles Casper Stockham: 23% (85,213)
+    - Diana DeGette: 73.8% (272,892)
+    - Raymon Anthony Doane: 3.1% (11,606)
+  - Election Winner:
+    - Diane DeGette
+    - Vote Count: 272,892
+    - Percentage: 73.8%
