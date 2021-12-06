@@ -16,6 +16,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 ## Election-Audit Results
 The analysis of the election show that:
 - There were "369,711" votes cast in the election.
+- ![Total Votes](OneDrive/Documents/Data Analytics/Resources/total_votes.png)
 - The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
@@ -34,6 +35,10 @@ Seth and Tom, the two Board of Elections employees asked for additional informat
   3. The county with the highest turnout
 
 ## Challenge Summary
+  provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+  The election commision can take advantage of this code so that it can be used to look deeper into poll results. This information can help lead to better legislations that will benefit each community or county by adjusting this code. 
+  If statements can be included to  breakdown the results to zip code if the information was provided and more. This Decision Statement can be used to gather more statical analysis. This analysis can be used for future elections to come. 
+  We could also add an if statment to determine the breakdown of gender if the information was provided. Knowing the gender could give you an idea of what gender preffered each candidate. 
 ### Election Results
   - Total Votes: 369,711
   - County Results:
